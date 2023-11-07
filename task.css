@@ -1,0 +1,22 @@
+.container{
+    display: flexbox;
+    color: white;
+    background-color:darkcyan;
+}
+
+.navbar{
+    padding-left:10px ;
+    margin-left:10px ;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  justify-content: end;
+  
+  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
